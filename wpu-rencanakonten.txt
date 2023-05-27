@@ -3,6 +3,8 @@ Rencana konten WPU
 - Javascript
  *ES6
  *Framework Javascript
+     ^Vue
  - Fundamental Data Structure
+   ^ Linked List
 - PHP Framework
 - Vlog
